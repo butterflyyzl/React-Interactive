@@ -1,0 +1,38 @@
+{
+	"pages": [{
+		"name": "Statements",
+		"title": "收支报表",
+		"index": {
+			"subKey": "sub1",
+			"key": "1"
+		}
+	}, {
+		"name": "Income",
+		"title": "收入数据",
+		"index": {
+			"subKey": "sub2",
+			"key": "2"
+		}
+	}, {
+		"name": "SupplyBuy",
+		"title": "物资采购",
+		"index": {
+			"subKey": "sub3",
+			"key": "3"
+		}
+	}, {
+		"name": "SupplyExpend",
+		"title": "支出数据",
+		"index": {
+			"subKey": "sub3",
+			"key": "4"
+		}
+	}, {
+		"name": "Supplies",
+		"title": "支出数据",
+		"index": {
+			"subKey": "sub3",
+			"key": "5"
+		}
+	}]
+}
